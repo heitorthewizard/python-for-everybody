@@ -1,0 +1,30 @@
+# This is a text file
+There's nothing too important here, it's just to 
+get you to learn how to read (open) files with python
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+ABCDEFGHIJKLIMNOPQKRTUVXWYZ
+abcdefghijklmnopqrstuvwxyz
+
+OIFJWIFJRE WOIWFJEORIGJ ROEIGJRTOGI QIOJDFERGTEG
+WOIFRJIGJROIG OGIRJHOIJG GIJIWRG  OWIEJFEOITJI G
+GEOITJRTOIJG OIGRJROJOIGJ R IJOIJ OIJOIHJRT O IG
+GROIJHOIRJTGO TOIHJ ROHJRTHJ OIRJHRTHJORJ OIH IT
+AFIEJFIF OIWJFOI JOWIFJ UGOETJGRTHJ ITOIHJROIIJI
+FWI5OIJR OIJE IJOIEJG O OIGJEROIGJREOGI  OIJEROG
+oidfjoijger oiregjeoijero jwoij oweifjeotihjo fd
+foierjortjgo jetoj toihrjtoh ijtrhoijhoirjt gjer
+oiwejreoigj orejoiregjerogierjgoiejg oieregergeg
+weoittjhjunfwoeiogjroigjetoihjtoijhotih iojgreog
+
+from ifjeoiegdwedwef
+from fiojioguiogoirj
+from oierjgiojfqwpre
+from hsieofwoealwmvc
+from frijccsritgjkff
+
+Subject: random
+Subject: encrypted
+Subject: HeitorTheWizard
+Subject: python3
+From stephen.marquard@uct.ac.za Sat Jan 5 09:14:16 2008
