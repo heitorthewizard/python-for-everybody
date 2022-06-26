@@ -1,6 +1,3 @@
-from ast import IsNot
-
-
 print ('Finding the smallest number')
 
 smallest_number = None
