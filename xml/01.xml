@@ -1,0 +1,17 @@
+<!--XML Document-->
+<person>
+  <lastname>Severance</lastname>
+  <age>17</age>
+  <databorn>2001-04-17</databorn>
+</person>
+
+<!--XML Schema Contract-->
+<xs:complexType name="person">
+  <xs:sequence>
+    <xs:element name="lastname" type="xs:string"/>
+    <xs:element name="age" type="xs:integer"/>
+    <xs:element name="databorn" type="xs:date"/>
+  </xs:sequence>
+</xs:complexType>
+
+
