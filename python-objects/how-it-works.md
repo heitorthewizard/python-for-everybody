@@ -15,7 +15,9 @@
     - Object has boundaries that allow us to ignore un-need detail
 
 #### Definitions
-    - Class - a template - Dog
+    - Class - a template - the shape of something - "Dog"
     - Method or Message - A defined capability of a class - bark()
     - Field or Attribute - A bit of data in a class - length
-    - Object or Instance - A particular instance of a class - Scooby
+    - Object or Instance - A particular instance of a class - "Scooby-Doo"
+    - Constructor - Code that runs when an object is created
+    - Inheritance - The ability to extend a class to make a new class
